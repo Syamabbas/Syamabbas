@@ -6,8 +6,8 @@ My name is Raja Syam, an aspiring Data Analyst.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👨🏼‍💻 Projects
-
-- [Bank Customer Segmentation](https://www.mavenanalytics.io/project/5345) (Tableau Udemy Training Project)
+- [Customer E-commerce Analysis](https://www.mavenanalytics.io/project/5373)
+- [Bank Customer Segmentation](https://www.mavenanalytics.io/project/5345)
 - [Video Game Dashboard](https://www.mavenanalytics.io/project/4679)
 
 ## ⚡ Core Competencies
