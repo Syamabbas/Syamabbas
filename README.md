@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif)](github.com/Syamabbas)
+[![MasterHead](https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif)](https://github.com/Syamabbas/)
 
 # 😄 Hi! I'm Raja.
 
