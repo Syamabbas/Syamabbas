@@ -6,9 +6,9 @@ My name is Raja Syam, an aspiring Data Analyst.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👨🏼‍💻 Projects
-- [Employee Analytics](https://www.mavenanalytics.io/project/5382) (Tableau Project)
-- [Customer E-commerce Analysis](https://www.mavenanalytics.io/project/5373) (Tableau Project)
-- [Bank Customer Segmentation](https://www.mavenanalytics.io/project/5345) (Tableau Project)
+- [Employee Analytics](https://public.tableau.com/app/profile/raja.syam/viz/EmployeeAnalysis_16836985855960/Dashboard1) (Tableau Project)
+- [Customer E-commerce Analysis](https://public.tableau.com/app/profile/raja.syam/viz/CustomerAnalysis_16836434866530/Dashboard1) (Tableau Project)
+- [Bank Customer Segmentation](https://public.tableau.com/app/profile/raja.syam/viz/BankCustomerSegmentation_16828303955170/Storyline) (Tableau Project)
 - [Video Game Dashboard](https://www.mavenanalytics.io/project/4679) (Excel Project)
 
 ## ⚡ Core Competencies
