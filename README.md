@@ -6,10 +6,10 @@ My name is Raja Syam, an aspiring Data Analyst.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👨🏼‍💻 Projects
-- [Employee Analytics](https://www.mavenanalytics.io/project/5382)
-- [Customer E-commerce Analysis](https://www.mavenanalytics.io/project/5373)
-- [Bank Customer Segmentation](https://www.mavenanalytics.io/project/5345)
-- [Video Game Dashboard](https://www.mavenanalytics.io/project/4679)
+- [Employee Analytics](https://www.mavenanalytics.io/project/5382) (Tableau Project)
+- [Customer E-commerce Analysis](https://www.mavenanalytics.io/project/5373) (Tableau Project)
+- [Bank Customer Segmentation](https://www.mavenanalytics.io/project/5345) (Tableau Project)
+- [Video Game Dashboard](https://www.mavenanalytics.io/project/4679) (Excel Project)
 
 ## ⚡ Core Competencies
 - Tools: Excel, SQL, Tableau, Google Data Studio, Python
@@ -24,10 +24,14 @@ My name is Raja Syam, an aspiring Data Analyst.
 - Python for Data Professional Beginner ([link](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1LQTRPG))
 - Data Analysis with R Programming ([link](https://www.coursera.org/account/accomplishments/certificate/PDPEHUWVXM2P))
 
-## 🌐 Let's Connect
+## 🌐 Other Stuff
 
   - rajasyamabbas@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/raja-syam-abbas-shagir/)
+  - [Tableau Public](https://public.tableau.com/app/profile/raja.syam)
+  - [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
+  - [Instagram](https://instagram.com/rajasyamabbas)
+  - [My Resume](https://docs.google.com/document/d/1_gBoW6MyCH2wO_y3QjMB6UQTgxRPH0E1/edit?usp=sharing&ouid=104789032723395832123&rtpof=true&sd=true)
 
 <!---
 Syamabbas/RajaSyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
