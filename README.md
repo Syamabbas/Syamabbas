@@ -16,7 +16,6 @@ My name is Raja Syam, an aspiring Data Analyst.
 - Skills: Data Cleaning, Data Visualization, Data Analysis, Relational Database
 
 ## 📑 Certification
-
 - Google Data Analytics Certification ([link](https://www.coursera.org/account/accomplishments/specialization/certificate/ULTFRBGFC7R5))
 - Training of Tableau ([link](https://www.udemy.com/certificate/UC-9b8bb7e6-9f05-4937-b28f-5afaff1813b8/))
 - Explotory Data Analysis with Python ([link](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1NRFTIB))
@@ -25,13 +24,11 @@ My name is Raja Syam, an aspiring Data Analyst.
 - Data Analysis with R Programming ([link](https://www.coursera.org/account/accomplishments/certificate/PDPEHUWVXM2P))
 
 ## 🌐 Other Stuff
-
-  - rajasyamabbas@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/raja-syam-abbas-shagir/)
-  - [Tableau Public](https://public.tableau.com/app/profile/raja.syam)
-  - [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
-  - [Instagram](https://instagram.com/rajasyamabbas)
-  - [My Resume](https://docs.google.com/document/d/1_gBoW6MyCH2wO_y3QjMB6UQTgxRPH0E1/edit?usp=sharing&ouid=104789032723395832123&rtpof=true&sd=true)
+- [LinkedIn](https://www.linkedin.com/in/raja-syam-abbas-shagir/)
+- [Tableau Public](https://public.tableau.com/app/profile/raja.syam)
+- [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
+- [Instagram](https://instagram.com/rajasyamabbas)
+- [My Resume](https://docs.google.com/document/d/1_gBoW6MyCH2wO_y3QjMB6UQTgxRPH0E1/edit?usp=sharing&ouid=104789032723395832123&rtpof=true&sd=true)
 
 <!---
 Syamabbas/RajaSyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
