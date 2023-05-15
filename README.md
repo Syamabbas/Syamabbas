@@ -11,6 +11,7 @@ My name is Raja Syam, an aspiring Data Analyst.
 - [Bank Customer Segmentation](https://public.tableau.com/app/profile/raja.syam/viz/BankCustomerSegmentation_16828303955170/Storyline) (Tableau Project)
 - [Library Database with Python](https://github.com/Syamabbas/program-database-perpustakaan/tree/main) (Python Project)
 - [Video Game Dashboard](https://www.mavenanalytics.io/project/4679) (Excel Project)
+- [Hotel Bookings](https://github.com/Syamabbas/hotel-bookings/tree/main) (R Project)
 
 ## ⚡ Core Competencies
 - Tools: Excel, SQL, Tableau, Google Data Studio, Python
