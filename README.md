@@ -30,6 +30,7 @@ My name is Raja Syam, an aspiring Data Analyst.
 - [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
 - [Instagram](https://instagram.com/rajasyamabbas)
 - [My Resume](https://docs.google.com/document/d/1_gBoW6MyCH2wO_y3QjMB6UQTgxRPH0E1/edit?usp=sharing&ouid=104789032723395832123&rtpof=true&sd=true)
+- [YouTube](https://youtube.com/@syam-data)
 
 <!---
 Syamabbas/RajaSyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
