@@ -30,7 +30,7 @@ My name is Raja Syam, an aspiring Data Analyst.
 - [Tableau Public](https://public.tableau.com/app/profile/raja.syam)
 - [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
 - [Instagram](https://instagram.com/rajasyamabbas)
-- [My Resume](https://docs.google.com/document/d/1_gBoW6MyCH2wO_y3QjMB6UQTgxRPH0E1/edit?usp=sharing&ouid=104789032723395832123&rtpof=true&sd=true)
+- [My Resume](https://docs.google.com/document/d/1i_LsYzyvbIuO16Wt0rTiHJuL2o3c7XIo/edit?usp=share_link&ouid=104789032723395832123&rtpof=true&sd=true)
 - [YouTube](https://youtube.com/@syam-data)
 
 <!---
