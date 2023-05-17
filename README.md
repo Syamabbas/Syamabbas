@@ -2,7 +2,7 @@
 
 # 😄 Hi! I'm Raja.
 
-My name is Raja Syam, an aspiring Data Analyst.
+My name is Raja Syam, On my GitHub profile, you'll find a collection of my projects, study cases, and implementations in R. I strive to create well-documented and efficient code that not only achieves results but also promotes readability and understanding. Let's connect!
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👨🏼‍💻 Projects
