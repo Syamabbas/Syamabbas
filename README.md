@@ -36,7 +36,6 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - [Tableau Public](https://public.tableau.com/app/profile/raja.syam)
 - [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
 - [Instagram](https://instagram.com/rajasyamabbas)
-- [YouTube](https://youtube.com/@syam-data)
 - [Upwork](https://www.upwork.com/freelancers/~0116ef334a35343779?s=1110580752008335360)
 
 <!---
