@@ -30,6 +30,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - Fundamental SQL Function ([link](https://academy.dqlab.id/Certificate_check/result/DQLABSQLT2VHDVHG))
 - Python for Data Professional Beginner ([link](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1LQTRPG))
 - Data Analysis with R Programming ([link](https://www.coursera.org/account/accomplishments/certificate/PDPEHUWVXM2P))
+- Teknisi Utama Jaringan Komputer ([link](https://drive.google.com/file/d/1A1KgfR9_S9lqv-L3C-MI9agBcG_pHgbo/view?usp=sharing))
 
 ## 🌐 Other Stuff
 - [LinkedIn](https://www.linkedin.com/in/raja-syam-abbas-shagir/)
