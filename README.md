@@ -8,6 +8,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## 👨🏼‍💻 Projects
+- [Aplikasi Belajar Membaca](https://play.google.com/store/apps/details?id=com.rajasyam.belajarmembaca) (My First App)
 - [Employee Analytics](https://public.tableau.com/app/profile/raja.syam/viz/EmployeeAnalysis_16836985855960/Dashboard1) (Tableau Project)
 - [Customer E-commerce Analysis](https://public.tableau.com/app/profile/raja.syam/viz/CustomerAnalysis_16836434866530/Dashboard1) (Tableau Project)
 - [Bank Customer Segmentation](https://public.tableau.com/app/profile/raja.syam/viz/BankCustomerSegmentation_16828303955170/Storyline) (Tableau Project)
