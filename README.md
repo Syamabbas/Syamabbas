@@ -3,7 +3,7 @@
 # 😄 Hi! I'm Raja.
 
 My name is Raja Syam, On my GitHub profile, you'll find a collection of my projects, study cases, and implementation. I strive to create well-documented and efficient code that not only achieves results but also promotes readability and understanding. So check it out!
-<br><br>
+<br> <br>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
