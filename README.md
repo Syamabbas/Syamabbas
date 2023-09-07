@@ -8,21 +8,22 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## 👨🏼‍💻 Projects
-- [Aplikasi Belajar Membaca](https://play.google.com/store/apps/details?id=com.rajasyam.belajarmembaca) (My First App)
-- [Employee Analytics](https://public.tableau.com/app/profile/raja.syam/viz/EmployeeAnalysis_16836985855960/Dashboard1) (Tableau Project)
-- [Customer E-commerce Analysis](https://public.tableau.com/app/profile/raja.syam/viz/CustomerAnalysis_16836434866530/Dashboard1) (Tableau Project)
-- [Bank Customer Segmentation](https://public.tableau.com/app/profile/raja.syam/viz/BankCustomerSegmentation_16828303955170/Storyline) (Tableau Project)
-- [Library Database with Python](https://github.com/Syamabbas/program-database-perpustakaan/tree/main) (Python Project)
+- [Aplikasi Belajar Membaca](https://github.com/Syamabbas/app-belajar-membaca) (My First App)
+- [Syam Kopi](https://syamabbas.com/kopisyam/) (Front-end web project)
+- [Syam Wheels](https://syamabbas.com/syam-wheels/) (Web project front-end)
+- [Smart waris](https://github.com/Syamabbas/smart-waris) (UI/UX project also app)
+- [CRUD project](https://github.com/Syamabbas/php-crud) (Back-end Project)
+- [Sign-login](https://github.com/Syamabbas/signup-login) (Back-end Project)
 - [Video Game Dashboard](https://www.mavenanalytics.io/project/4679) (Excel Project)
 - [Hotel Bookings](https://github.com/Syamabbas/hotel-bookings/tree/main) (R Project)
 
 ## ⚡ Core Competencies
 - Programming Language: <br>
-  PHP, Pyhton, Java, SQL, R
+  HTML, CSS, PHP, Pyhton, Java, SQL, R
 - Databases: <br>
   MySQL, Oracle
 - Other: <br>
-  Microsoft office, Power BI, Tableau
+  Microsoft office, Laravel, CI4, Power BI, Tableau
  
 ## 📑 Certification
 - Google Data Analytics Certification ([link](https://www.coursera.org/account/accomplishments/specialization/certificate/ULTFRBGFC7R5))
@@ -34,11 +35,12 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - Teknisi Utama Jaringan Komputer ([link](https://drive.google.com/file/d/1A1KgfR9_S9lqv-L3C-MI9agBcG_pHgbo/view?usp=sharing))
 
 ## 🌐 Other Stuff
+
+- [Website](https://www.syamabbas.com/)
 - [LinkedIn](https://www.linkedin.com/in/raja-syam-abbas-shagir/)
 - [Tableau Public](https://public.tableau.com/app/profile/raja.syam)
 - [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
 - [Instagram](https://instagram.com/rajasyamabbas)
-- [Upwork](https://www.upwork.com/freelancers/~0116ef334a35343779?s=1110580752008335360)
 
 <!---
 Syamabbas/RajaSyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
