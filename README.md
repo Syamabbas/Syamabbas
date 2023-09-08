@@ -23,7 +23,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - Databases: <br>
   MySQL, Oracle
 - Other: <br>
-  Microsoft office, Laravel, CI4, Power BI, Tableau
+  Microsoft office, Laravel, Codeigniter, Power BI, Tableau
  
 ## 📑 Certification
 - Google Data Analytics Certification ([link](https://www.coursera.org/account/accomplishments/specialization/certificate/ULTFRBGFC7R5))
