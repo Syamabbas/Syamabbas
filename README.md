@@ -8,22 +8,17 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## 👨🏼‍💻 Projects
-- [Aplikasi Belajar Membaca](https://github.com/Syamabbas/app-belajar-membaca) (My First App)
-- [Syam Kopi](https://syamabbas.com/kopisyam/) (Front-end web project)
-- [Syam Wheels](https://syamabbas.com/syam-wheels/) (Web project front-end)
-- [Smart waris](https://github.com/Syamabbas/smart-waris) (UI/UX project also app)
-- [CRUD project](https://github.com/Syamabbas/php-crud) (Back-end Project)
-- [Sign-login](https://github.com/Syamabbas/signup-login) (Back-end Project)
 - [Video Game Dashboard](https://www.mavenanalytics.io/project/4679) (Excel Project)
 - [Hotel Bookings](https://github.com/Syamabbas/hotel-bookings/tree/main) (R Project)
+- [Prediksi Gaji]([https://github.com/Syamabbas/hotel-bookings/tree/main](https://github.com/Syamabbas/Memprediksi-Gaji-dengan-Metode-Regression)) (ML)
 
 ## ⚡ Core Competencies
 - Programming Language: <br>
-  HTML, CSS, PHP, Pyhton, Java, SQL, R
+  Pyhton, SQL, R, HTML, CSS, 
 - Databases: <br>
   MySQL, Oracle
 - Other: <br>
-  Microsoft office, Laravel, Codeigniter, Power BI, Tableau
+  Microsoft office, Laravel, Power BI, Tableau
  
 ## 📑 Certification
 - Google Data Analytics Certification ([link](https://www.coursera.org/account/accomplishments/specialization/certificate/ULTFRBGFC7R5))
