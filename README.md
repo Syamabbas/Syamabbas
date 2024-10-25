@@ -10,7 +10,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 ## 👨🏼‍💻 Projects
 - [Video Game Dashboard](https://www.mavenanalytics.io/project/4679) (Excel Project)
 - [Hotel Bookings](https://github.com/Syamabbas/hotel-bookings/tree/main) (R Project)
-- [Prediksi Gaji]([https://github.com/Syamabbas/hotel-bookings/tree/main](https://github.com/Syamabbas/Memprediksi-Gaji-dengan-Metode-Regression)) (ML)
+- [Prediksi Gaji dengan Metode Regression](https://github.com/Syamabbas/Memprediksi-Gaji-dengan-Metode-Regression/blob/970a3166dbb60799ae422141a14823e025b1da51/uas-rajasyam.ipynb) (ML)
 
 ## ⚡ Core Competencies
 - Programming Language: <br>
