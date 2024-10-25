@@ -1,5 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif)](https://github.com/Syamabbas/)
-
 # 😄 Hi! I'm Raja.
 
 My name is Raja Syam, On my GitHub profile, you'll find a collection of my projects, study cases, and implementation. I strive to create well-documented and efficient code that not only achieves results but also promotes readability and understanding. So check it out!
