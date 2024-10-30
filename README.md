@@ -6,6 +6,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## 👨🏼‍💻 Projects
+- [Amazon LSTM Sentiment Analysis](https://github.com/Syamabbas/AmazonSentimentAnalysis)
 - [Video Game Dashboard](https://www.mavenanalytics.io/project/4679) (Excel Project)
 - [Hotel Bookings](https://github.com/Syamabbas/hotel-bookings/tree/main) (R Project)
 - [Prediksi Gaji dengan Metode Regression](https://github.com/Syamabbas/Memprediksi-Gaji-dengan-Metode-Regression/blob/970a3166dbb60799ae422141a14823e025b1da51/uas-rajasyam.ipynb) (ML)
@@ -29,11 +30,10 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 
 ## 🌐 Other Stuff
 
-- [Website](https://www.syamabbas.com/)
 - [LinkedIn](https://www.linkedin.com/in/raja-syam-abbas-shagir/)
 - [Tableau Public](https://public.tableau.com/app/profile/raja.syam)
 - [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
-- [Instagram](https://instagram.com/rajasyamabbas)
+- [Instagram](https://instagram.com/sym.bbs)
 
 <!---
 Syamabbas/RajaSyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
