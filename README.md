@@ -32,7 +32,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - [LinkedIn](https://www.linkedin.com/in/raja-syam-abbas-shagir/)
 - [Tableau Public](https://public.tableau.com/app/profile/raja.syam)
 - [Maven Analytics](https://www.mavenanalytics.io/profile/Raja-syam/168024767)
-- [Instagram](https://instagram.com/sym.bbs)
+- [Instagram](https://instagram.com/rajasyamabbas)
 
 <!---
 Syamabbas/RajaSyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
