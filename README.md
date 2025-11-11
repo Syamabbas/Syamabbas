@@ -7,7 +7,6 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 
 ## 👨🏼‍💻 Projects
 - [Amazon LSTM Sentiment Analysis](https://github.com/Syamabbas/AmazonSentimentAnalysis)
-- [Video Game Dashboard](https://www.mavenanalytics.io/project/4679)
 - [Hotel Bookings](https://github.com/Syamabbas/hotel-bookings/tree/main)
 - [Prediksi Gaji dengan Metode Regression](https://github.com/Syamabbas/Memprediksi-Gaji-dengan-Metode-Regression/blob/970a3166dbb60799ae422141a14823e025b1da51/uas-rajasyam.ipynb)
 
@@ -26,6 +25,9 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - Fundamental SQL Function ([link](https://academy.dqlab.id/Certificate_check/result/DQLABSQLT2VHDVHG))
 - Python for Data Professional Beginner ([link](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1LQTRPG))
 - Data Analysis with R Programming ([link](https://www.coursera.org/account/accomplishments/certificate/PDPEHUWVXM2P))
+
+## 📑 Learning journey
+- SQL ([link](https://github.com/Syamabbas/Learning-SQL)) 
 
 ## 🌐 Other Stuff
 
