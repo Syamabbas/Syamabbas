@@ -7,10 +7,11 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 
 ## 👨🏼‍💻 Projects
 - [Library Database](https://github.com/Syamabbas/program-database-perpustakaan)
-- [Amazon LSTM Sentiment Analysis](https://github.com/Syamabbas/AmazonSentimentAnalysis)
 - [Hotel Bookings](https://github.com/Syamabbas/hotel-bookings/tree/main)
 - [Syam Dealer](https://github.com/Syamabbas/syam-dealer)
+- [My first app](https://github.com/Syamabbas/app-belajar-membaca)
 - [Prediksi Gaji dengan Metode Regression](https://github.com/Syamabbas/Memprediksi-Gaji-dengan-Metode-Regression/blob/970a3166dbb60799ae422141a14823e025b1da51/uas-rajasyam.ipynb)
+- [Amazon LSTM Sentiment Analysis](https://github.com/Syamabbas/AmazonSentimentAnalysis)
 
 ## ⚡ Core Competencies
 - Programming Language: <br>
@@ -32,6 +33,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - SQL ([link](https://github.com/Syamabbas/Learning-SQL))
 - Deep Learning ([link](https://github.com/Syamabbas/DeepLearning))
 - Python ([link](https://github.com/Syamabbas/Python-basic))
+- OOP Python ([link](https://github.com/Syamabbas/oop-python))
 - PHP ([link](https://github.com/Syamabbas/php-crud))
 - Excel ([link](https://github.com/Syamabbas/All-About-Excel))
 
