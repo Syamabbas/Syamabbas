@@ -5,13 +5,10 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-## 👨🏼‍💻 Projects
+## 👨🏼‍💻 3 Top Projects
 - [Library Database](https://github.com/Syamabbas/program-database-perpustakaan)
-- [Hotel Bookings](https://github.com/Syamabbas/hotel-bookings/tree/main)
 - [Syam Dealer](https://github.com/Syamabbas/syam-dealer)
 - [My first app](https://github.com/Syamabbas/app-belajar-membaca)
-- [Prediksi Gaji dengan Metode Regression](https://github.com/Syamabbas/Memprediksi-Gaji-dengan-Metode-Regression/blob/970a3166dbb60799ae422141a14823e025b1da51/uas-rajasyam.ipynb)
-- [Amazon LSTM Sentiment Analysis](https://github.com/Syamabbas/AmazonSentimentAnalysis)
 
 ## ⚡ Core Competencies
 - Programming Language: <br>
@@ -31,6 +28,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 
 ## 📑 Learning journey
 - SQL ([link](https://github.com/Syamabbas/Learning-SQL))
+- Power BI ([link](https://github.com/Syamabbas/PowerBI))
 - Deep Learning ([link](https://github.com/Syamabbas/DeepLearning))
 - Python ([link](https://github.com/Syamabbas/Python-basic))
 - OOP Python ([link](https://github.com/Syamabbas/oop-python))
