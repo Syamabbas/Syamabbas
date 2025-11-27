@@ -6,9 +6,9 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## 👨🏼‍💻 3 Top Projects
+- [Burger King Sales Dashboard](https://github.com/Syamabbas/Burger_King)
 - [Library Database](https://github.com/Syamabbas/program-database-perpustakaan)
 - [Syam Dealer](https://github.com/Syamabbas/syam-dealer)
-- [My first app](https://github.com/Syamabbas/app-belajar-membaca)
 
 ## ⚡ Core Competencies
 - Programming Language: <br>
