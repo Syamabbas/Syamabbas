@@ -7,6 +7,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 
 ## 👨🏼‍💻 3 Top Projects
 - [Burger King Sales Dashboard](https://github.com/Syamabbas/Burger_King)
+- [E Commerce Analysis with SQL](https://github.com/Syamabbas/SQL_Project.git)
 - [Library Database](https://github.com/Syamabbas/program-database-perpustakaan)
 - [Syam Dealer](https://github.com/Syamabbas/syam-dealer)
 
