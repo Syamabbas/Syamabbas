@@ -15,7 +15,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - Programming Language: <br>
   Pyhton, SQL, R, HTML, CSS, 
 - Databases: <br>
-  MySQL, Oracle
+  MySQL, Oracle, Pentaho
 - Other: <br>
   Microsoft office, Laravel, Power BI, Tableau
  
