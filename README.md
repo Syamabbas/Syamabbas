@@ -35,7 +35,7 @@ My name is Raja Syam, On my GitHub profile, you'll find a collection of my proje
 - OOP Python ([link](https://github.com/Syamabbas/oop-python))
 - PHP ([link](https://github.com/Syamabbas/php-crud))
 - Excel ([link](https://github.com/Syamabbas/All-About-Excel))
-- R ([link](https://github.com/Syamabbas/R-Learning)
+- R ([link](https://github.com/Syamabbas/R-Learning))
 
 ## 🌐 Other Stuff
 
